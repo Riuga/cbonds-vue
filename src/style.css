@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --bg-blue: #344066;
+  --bg-lightgrey: #fbfbfb;
+  --bg-orange: #ef5f31;
+  --text-white: #ffffff;
+  --text-black: #101010;
+  --text-lblue: #8ed5ff;
+  --text-green: #5cb585;
+  --text-red: #e31e25;
+  --border-lgrey: #e8e8e8;
+  --border-blue: #344066;
+  --border-orange: #ef5f31;
+  --chart-blue: #ecefff;
+  --chart-orange: #faebe7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
